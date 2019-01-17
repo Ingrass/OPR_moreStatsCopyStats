@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         OPR more stats and copy stats
-// @version      2.01
+// @version      2.02
 // @category     Info
 // @namespace    sdfgsdfgerververvesafsadfrververv
 // @author       lokpro
 // @match        https://opr.ingress.com/*
+// @updateURL    https://github.com/Ingrass/OPR_moreStatsCopyStats/raw/master/OPR_moreStatsCopyStats.user.js
+// @downloadURL  https://github.com/Ingrass/OPR_moreStatsCopyStats/raw/master/OPR_moreStatsCopyStats.user.js
 // @grant        none
 // @require      https://cdn.jsdelivr.net/clipboard.js/1.6.1/clipboard.min.js
 // ==/UserScript==
