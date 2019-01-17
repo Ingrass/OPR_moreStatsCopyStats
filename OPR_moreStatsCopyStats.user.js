@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         OPR more stats and copy stats
-// @version      2.0
+// @version      2.01
 // @category     Info
 // @namespace    sdfgsdfgerververvesafsadfrververv
 // @author       lokpro
@@ -149,6 +149,7 @@ xmlhttp.onreadystatechange = function() {
 								node.innerText = upgradedTitles;
 								node.className = CLASS_RIGHT;
 								node.style.width = "200px";
+								node.style.textAlign = "right";
 							p.append( node );
 						div_player_stats[i].appendChild( p );
 					}
